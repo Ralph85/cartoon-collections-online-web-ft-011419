@@ -1,12 +1,17 @@
 def roll_call_dwarves ["Doc", "Dopey", "Bashful", "Grumpy"]
-  puts Doc
-  puts Dopey
-  puts Bashful
-  puts Grumpy
+  puts "Doc"
+  puts "Dopey"
+  puts "Bashful"
+  puts "Grumpy"
 end
 
-def summon_captain_planet# code an argument here
-  ["EARTH!", "WIND!", "FIRE!", "WATER!", "HEART!"]
+def summon_captain_planet ["EARTH!", "WIND!", "FIRE!", "WATER!", "HEART!"]
+  puts "EARTH!"
+  puts "WIND!"
+  puts "FIRE!"
+  puts "WATER!"
+  puts "HEART!"
+
 end
 
 def long_planeteer_calls# code an argument here
